@@ -1,2 +1,1 @@
-# duo-story
-Read the comment of the commit in the reads read me comment zone 
+<img>https://i.imgur.com/vlnXHfT.jpg</img>
